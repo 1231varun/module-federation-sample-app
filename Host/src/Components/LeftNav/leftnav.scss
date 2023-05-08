@@ -1,0 +1,11 @@
+.left-nav-container {
+    color: white;
+    background: gray;
+    display: flex;
+    position: relative;
+    left: 0;
+    top: 0px;
+    border: solid gray 1px;
+    width: 300px;
+    height: calc(100vh - 50px);
+}
