@@ -44,7 +44,8 @@ module.exports = {
       filename: "shell.js",
       remotes: {
           Page1: "page1@http://localhost:3001/page1.js",
-          Page2: "page2@http://localhost:3002/page2.js"
+          Page2: "page2@http://localhost:3002/page2.js",
+          Page3: 'page3@http://localhost:4203/remoteEntry.js',
       },
       exposes: {},
       shared: {

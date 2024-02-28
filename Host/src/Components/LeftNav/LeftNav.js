@@ -11,6 +11,9 @@ function LeftNav(props) {
             <div>
               <Link to="page2">Page 2</Link>
             </div>
+            <div>
+              <Link to="page3">Page 3</Link>
+            </div>
           </nav>
         </div>
       );
